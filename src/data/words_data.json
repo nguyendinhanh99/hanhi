@@ -1,0 +1,2572 @@
+[
+  {
+    "id": 1,
+    "word": "Presentation",
+    "partOfSpeech": "n",
+    "meaning": "bài thuyết trình",
+    "synonyms": [
+      "lecture",
+      "address",
+      "talk",
+      "speech"
+    ]
+  },
+  {
+    "id": 2,
+    "word": "Present",
+    "partOfSpeech": "v",
+    "meaning": "thuyết trình",
+    "synonyms": [
+      "lecture",
+      "address",
+      "talk",
+      "speak"
+    ]
+  },
+  {
+    "id": 3,
+    "word": "Problem",
+    "partOfSpeech": "n",
+    "meaning": "vấn đề",
+    "synonyms": [
+      "matter",
+      "issue",
+      "question"
+    ]
+  },
+  {
+    "id": 4,
+    "word": "Handle",
+    "partOfSpeech": "v",
+    "meaning": "xử lý/ giải quyết",
+    "synonyms": [
+      "settle",
+      "solve",
+      "resolve",
+      "deal with",
+      "process"
+    ]
+  },
+  {
+    "id": 5,
+    "word": "Decline",
+    "partOfSpeech": "v",
+    "meaning": "từ chối",
+    "synonyms": [
+      "reject",
+      "refuse",
+      "turn down"
+    ]
+  },
+  {
+    "id": 6,
+    "word": "Abide by",
+    "partOfSpeech": "v",
+    "meaning": "tuân theo",
+    "synonyms": [
+      "comply with",
+      "conform to",
+      "adhere to",
+      "follow"
+    ]
+  },
+  {
+    "id": 7,
+    "word": "Increase",
+    "partOfSpeech": "v",
+    "meaning": "tăng",
+    "synonyms": [
+      "rise",
+      "raise",
+      "go up"
+    ]
+  },
+  {
+    "id": 8,
+    "word": "Decrease",
+    "partOfSpeech": "v",
+    "meaning": "giảm",
+    "synonyms": [
+      "reduce",
+      "decline",
+      "lessen",
+      "go down"
+    ]
+  },
+  {
+    "id": 9,
+    "word": "Meet",
+    "partOfSpeech": "v",
+    "meaning": "đáp ứng",
+    "synonyms": [
+      "accommodate",
+      "satisfy",
+      "fulfill",
+      "suit"
+    ]
+  },
+  {
+    "id": 10,
+    "word": "Accommodation",
+    "partOfSpeech": "n",
+    "meaning": "chỗ ở",
+    "synonyms": [
+      "housing",
+      "lodging"
+    ]
+  },
+  {
+    "id": 11,
+    "word": "Attend",
+    "partOfSpeech": "v",
+    "meaning": "tham gia",
+    "synonyms": [
+      "participate in",
+      "join",
+      "take part in",
+      "engage in"
+    ]
+  },
+  {
+    "id": 12,
+    "word": "Invoice",
+    "partOfSpeech": "n",
+    "meaning": "hóa đơn",
+    "synonyms": [
+      "receipt",
+      "check",
+      "bill",
+      "proof of purchase"
+    ]
+  },
+  {
+    "id": 13,
+    "word": "Provide",
+    "partOfSpeech": "v",
+    "meaning": "cung cấp",
+    "synonyms": [
+      "supply offer",
+      "stock"
+    ]
+  },
+  {
+    "id": 14,
+    "word": "Terminate",
+    "partOfSpeech": "v",
+    "meaning": "chấm dứt, kết thúc",
+    "synonyms": [
+      "stop",
+      "conclude",
+      "cease",
+      "end"
+    ]
+  },
+  {
+    "id": 15,
+    "word": "Obligate",
+    "partOfSpeech": "v",
+    "meaning": "bắt buộc",
+    "synonyms": [
+      "oblige",
+      "force",
+      "compel"
+    ]
+  },
+  {
+    "id": 16,
+    "word": "Obligatory",
+    "partOfSpeech": "adj",
+    "meaning": "bắt buộc",
+    "synonyms": [
+      "mandatory",
+      "compulsory",
+      "required"
+    ]
+  },
+  {
+    "id": 17,
+    "word": "Reluctant",
+    "partOfSpeech": "adj",
+    "meaning": "miễn cưỡng, không sẵn lòng",
+    "synonyms": [
+      "hesitant",
+      "unwilling"
+    ]
+  },
+  {
+    "id": 18,
+    "word": "Profit",
+    "partOfSpeech": "n",
+    "meaning": "lợi nhuận",
+    "synonyms": [
+      "earnings",
+      "proceeds",
+      "receipts",
+      "returns"
+    ]
+  },
+  {
+    "id": 19,
+    "word": "Salary",
+    "partOfSpeech": "s) = pay/ payment = stipend (n",
+    "meaning": "tiền lương",
+    "synonyms": [
+      "wage"
+    ]
+  },
+  {
+    "id": 20,
+    "word": "Cost",
+    "partOfSpeech": "n/a",
+    "meaning": "Miễn phí",
+    "synonyms": [
+      "expense",
+      "overheads",
+      "outlay",
+      "expenditure (n): chi phí, phí tổn 21. Free",
+      "complimentary",
+      "free of cost/ charge",
+      "without cost/ charge",
+      "at no cost",
+      "for nothing"
+    ]
+  },
+  {
+    "id": 21,
+    "word": "Evaluate",
+    "partOfSpeech": "v",
+    "meaning": "đánh giá",
+    "synonyms": [
+      "assess",
+      "rate",
+      "appraise",
+      "estimate"
+    ]
+  },
+  {
+    "id": 22,
+    "word": "Conference",
+    "partOfSpeech": "n",
+    "meaning": "hội thảo/ cuộc họp",
+    "synonyms": [
+      "meeting",
+      "convention",
+      "convention",
+      "seminar",
+      "workshop",
+      "assembly",
+      "gathering"
+    ]
+  },
+  {
+    "id": 23,
+    "word": "Candidate",
+    "partOfSpeech": "n",
+    "meaning": "ứng viên xin việc",
+    "synonyms": [
+      "applicant",
+      "job-seeker",
+      "interviewee"
+    ]
+  },
+  {
+    "id": 24,
+    "word": "Contact",
+    "partOfSpeech": "v",
+    "meaning": "liên lạc",
+    "synonyms": [
+      "reach",
+      "get in touch with"
+    ]
+  },
+  {
+    "id": 25,
+    "word": "Cover",
+    "partOfSpeech": "v",
+    "meaning": "bao gồm",
+    "synonyms": [
+      "contain",
+      "include",
+      "consist of",
+      "feature"
+    ]
+  },
+  {
+    "id": 26,
+    "word": "Include",
+    "partOfSpeech": "v",
+    "meaning": "đính kèm",
+    "synonyms": [
+      "attach",
+      "enclose",
+      "accompany"
+    ]
+  },
+  {
+    "id": 27,
+    "word": "since",
+    "partOfSpeech": "conj",
+    "meaning": "bởi vì",
+    "synonyms": [
+      "as",
+      "for",
+      "now that",
+      "seeing that",
+      "in that"
+    ]
+  },
+  {
+    "id": 28,
+    "word": "Because of",
+    "partOfSpeech": "prep.",
+    "meaning": "do, vì",
+    "synonyms": [
+      "due to",
+      "owing to",
+      "thanks to",
+      "on account of",
+      "in view of",
+      "as a result of"
+    ]
+  },
+  {
+    "id": 29,
+    "word": "Although",
+    "partOfSpeech": "conj.",
+    "meaning": "mặc dù",
+    "synonyms": [
+      "even though though",
+      "notwithstanding that while"
+    ]
+  },
+  {
+    "id": 30,
+    "word": "Despite",
+    "partOfSpeech": "prep.): mặc dù, bất kể  32. Except (for) = other than = apart from = aside from = barring = excluding = not including (prep.",
+    "meaning": "ngoại trừ",
+    "synonyms": [
+      "in spite of",
+      "notwithstanding",
+      "regardless of"
+    ]
+  },
+  {
+    "id": 31,
+    "word": "Duty",
+    "partOfSpeech": "n",
+    "meaning": "nhiệm vụ, trách nhiệm",
+    "synonyms": [
+      "assignment",
+      "task",
+      "responsibility"
+    ]
+  },
+  {
+    "id": 32,
+    "word": "Responsible for",
+    "partOfSpeech": "adj",
+    "meaning": "chịu trách nhiệm",
+    "synonyms": [
+      "accountable for",
+      "in charge of"
+    ]
+  },
+  {
+    "id": 33,
+    "word": "Responsible for",
+    "partOfSpeech": "adj",
+    "meaning": "chịu trách nhiệm",
+    "synonyms": [
+      "accountable for",
+      "in charge of"
+    ]
+  },
+  {
+    "id": 34,
+    "word": "Compensate",
+    "partOfSpeech": "v): đền bù, bồi thường  37. Immediately = directly at once = instantly = right away = without delay (adv",
+    "meaning": "",
+    "synonyms": [
+      "refund",
+      "reimburse",
+      "recompense"
+    ]
+  },
+  {
+    "id": 35,
+    "word": "ngay lập tức",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": []
+  },
+  {
+    "id": 36,
+    "word": "Significantly",
+    "partOfSpeech": "adv",
+    "meaning": "",
+    "synonyms": [
+      "considerably",
+      "substantially",
+      "noticeably",
+      "remarkably"
+    ]
+  },
+  {
+    "id": 37,
+    "word": "một cách đáng kể",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": []
+  },
+  {
+    "id": 38,
+    "word": "Impact",
+    "partOfSpeech": "v",
+    "meaning": "ảnh hưởng, tác động",
+    "synonyms": [
+      "affect",
+      "influence"
+    ]
+  },
+  {
+    "id": 39,
+    "word": "Exceptional",
+    "partOfSpeech": "adj",
+    "meaning": "đặc biệt, xuất sắc",
+    "synonyms": [
+      "excellent",
+      "outstanding",
+      "special"
+    ]
+  },
+  {
+    "id": 40,
+    "word": "Submit",
+    "partOfSpeech": "v",
+    "meaning": "nộp",
+    "synonyms": [
+      "turn in",
+      "hand in",
+      "file"
+    ]
+  },
+  {
+    "id": 41,
+    "word": "Familiar with",
+    "partOfSpeech": "adj.",
+    "meaning": "quen với",
+    "synonyms": [
+      "accustomed to",
+      "acquainted with"
+    ]
+  },
+  {
+    "id": 42,
+    "word": "Create",
+    "partOfSpeech": "v",
+    "meaning": "tạo ra",
+    "synonyms": [
+      "make",
+      "generate",
+      "produce"
+    ]
+  },
+  {
+    "id": 43,
+    "word": "Orientation",
+    "partOfSpeech": "n",
+    "meaning": "buổi đào tạo",
+    "synonyms": [
+      "training"
+    ]
+  },
+  {
+    "id": 44,
+    "word": "Opportunity",
+    "partOfSpeech": "n",
+    "meaning": "cơ hội",
+    "synonyms": [
+      "chance"
+    ]
+  },
+  {
+    "id": 45,
+    "word": "Opening",
+    "partOfSpeech": "n",
+    "meaning": "vị trí công việc trống",
+    "synonyms": [
+      "vacancy",
+      "open position",
+      "vacant job/ position"
+    ]
+  },
+  {
+    "id": 46,
+    "word": "Employees",
+    "partOfSpeech": "n",
+    "meaning": "nhân viên",
+    "synonyms": [
+      "staff",
+      "workers",
+      "personnel",
+      "workforce"
+    ]
+  },
+  {
+    "id": 47,
+    "word": "Personnel",
+    "partOfSpeech": "n/a",
+    "meaning": "Bộ phận Nhân sự",
+    "synonyms": [
+      "HR/ Human Resources"
+    ]
+  },
+  {
+    "id": 48,
+    "word": "Phase",
+    "partOfSpeech": "n",
+    "meaning": "giai đoạn",
+    "synonyms": [
+      "stage",
+      "step",
+      "period"
+    ]
+  },
+  {
+    "id": 49,
+    "word": "Exactly correctly",
+    "partOfSpeech": "adv",
+    "meaning": "một cách chính xác",
+    "synonyms": [
+      "accurately",
+      "precisely"
+    ]
+  },
+  {
+    "id": 50,
+    "word": "Famous",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": [
+      "popular",
+      "well-known",
+      "renowned",
+      "prominent",
+      "noted"
+    ]
+  },
+  {
+    "id": 51,
+    "word": "celebrated distinguished",
+    "partOfSpeech": "adj",
+    "meaning": "nổi tiếng",
+    "synonyms": [
+      "respected"
+    ]
+  },
+  {
+    "id": 52,
+    "word": "Experienced",
+    "partOfSpeech": "adj",
+    "meaning": "có kinh nghiệm/ giỏi",
+    "synonyms": [
+      "skilled/skillful",
+      "well trained",
+      "accomplished",
+      "practiced",
+      "proficient",
+      "seasoned"
+    ]
+  },
+  {
+    "id": 53,
+    "word": "Recruit",
+    "partOfSpeech": "v",
+    "meaning": "thuê, tuyển dụng",
+    "synonyms": [
+      "hire",
+      "employ",
+      "engage"
+    ]
+  },
+  {
+    "id": 54,
+    "word": "Start",
+    "partOfSpeech": "v",
+    "meaning": "bắt đầu, khởi đầu",
+    "synonyms": [
+      "begin",
+      "commence",
+      "institute",
+      "initiate"
+    ]
+  },
+  {
+    "id": 55,
+    "word": "Commend",
+    "partOfSpeech": "v",
+    "meaning": "khen ngợi",
+    "synonyms": [
+      "praise",
+      "compliment",
+      "honor"
+    ]
+  },
+  {
+    "id": 56,
+    "word": "Reliable",
+    "partOfSpeech": "adj",
+    "meaning": "đáng tin cậy",
+    "synonyms": [
+      "dependable",
+      "trustworthy"
+    ]
+  },
+  {
+    "id": 57,
+    "word": "Rely on/ upon",
+    "partOfSpeech": "v",
+    "meaning": "dựa vào, phụ thuộc vào",
+    "synonyms": [
+      "depend on/ upon",
+      "count on"
+    ]
+  },
+  {
+    "id": 58,
+    "word": "Contest",
+    "partOfSpeech": "n",
+    "meaning": "cuộc thi, trận đấu",
+    "synonyms": [
+      "tournament",
+      "competition",
+      "race",
+      "match"
+    ]
+  },
+  {
+    "id": 59,
+    "word": "Competitor",
+    "partOfSpeech": "n): đối thủ cạnh tranh Register = enroll in = sign up (v",
+    "meaning": "đăng ký",
+    "synonyms": [
+      "rival",
+      "opponent",
+      "adversary"
+    ]
+  },
+  {
+    "id": 60,
+    "word": "Allow",
+    "partOfSpeech": "v",
+    "meaning": "cho phép",
+    "synonyms": [
+      "permit",
+      "enable",
+      "authorize",
+      "entitle"
+    ]
+  },
+  {
+    "id": 61,
+    "word": "Reserve",
+    "partOfSpeech": "v",
+    "meaning": "đặt trước",
+    "synonyms": [
+      "book",
+      "make a reservation"
+    ]
+  },
+  {
+    "id": 62,
+    "word": "Agreement",
+    "partOfSpeech": "n",
+    "meaning": "hợp đồng",
+    "synonyms": [
+      "contract"
+    ]
+  },
+  {
+    "id": 63,
+    "word": "Change",
+    "partOfSpeech": "v",
+    "meaning": "thay đổi, chỉnh sửa",
+    "synonyms": [
+      "modify",
+      "adjust",
+      "revise",
+      "alter",
+      "correct"
+    ]
+  },
+  {
+    "id": 64,
+    "word": "Access",
+    "partOfSpeech": "n",
+    "meaning": "lối đi vào",
+    "synonyms": [
+      "entrance",
+      "entryway/ entry",
+      "gate",
+      "way in"
+    ]
+  },
+  {
+    "id": 65,
+    "word": "Obtain",
+    "partOfSpeech": "v",
+    "meaning": "lấy, có được",
+    "synonyms": [
+      "get",
+      "acquire",
+      "gain",
+      "earn"
+    ]
+  },
+  {
+    "id": 66,
+    "word": "Interrupt",
+    "partOfSpeech": "n/a",
+    "meaning": "bị hỏng",
+    "synonyms": [
+      "disrupt",
+      "disturb",
+      "interfere with",
+      "break (v): làm gián đoạn 67. Malfunction",
+      "not function",
+      "out of order",
+      "go down",
+      "stop working",
+      "fail",
+      "go wrong",
+      "break down"
+    ]
+  },
+  {
+    "id": 67,
+    "word": "Outline",
+    "partOfSpeech": "n",
+    "meaning": "bản phác thảo, bản tóm tắt",
+    "synonyms": [
+      "draft",
+      "summary",
+      "sketch"
+    ]
+  },
+  {
+    "id": 68,
+    "word": "Convince",
+    "partOfSpeech": "v",
+    "meaning": "thuyết phục",
+    "synonyms": [
+      "persuade",
+      "induce"
+    ]
+  },
+  {
+    "id": 69,
+    "word": "Customer",
+    "partOfSpeech": "n",
+    "meaning": "khách hàng",
+    "synonyms": [
+      "client",
+      "consumer",
+      "patron",
+      "buyer",
+      "purchaser"
+    ]
+  },
+  {
+    "id": 70,
+    "word": "Delay",
+    "partOfSpeech": "v",
+    "meaning": "trì hoãn",
+    "synonyms": [
+      "postpone",
+      "reschedule",
+      "put off/over",
+      "defer",
+      "suspend",
+      "hold over",
+      "push back"
+    ]
+  },
+  {
+    "id": 71,
+    "word": "Complaint",
+    "partOfSpeech": "n",
+    "meaning": "lời phàn nàn",
+    "synonyms": [
+      "grievance",
+      "objection",
+      "criticism"
+    ]
+  },
+  {
+    "id": 72,
+    "word": "Feedback",
+    "partOfSpeech": "n",
+    "meaning": "lời nhận xét/ đánh giá",
+    "synonyms": [
+      "review",
+      "comment",
+      "idea",
+      "opinion",
+      "testimonial"
+    ]
+  },
+  {
+    "id": 73,
+    "word": "Deposit",
+    "partOfSpeech": "n",
+    "meaning": "tiền đặt cọc",
+    "synonyms": [
+      "down payment",
+      "advance payment",
+      "prepayment"
+    ]
+  },
+  {
+    "id": 74,
+    "word": "Error",
+    "partOfSpeech": "n",
+    "meaning": "lỗi, thiếu sót",
+    "synonyms": [
+      "mistake",
+      "fault",
+      "flaw",
+      "defect",
+      "oversight"
+    ]
+  },
+  {
+    "id": 75,
+    "word": "Expire",
+    "partOfSpeech": "v",
+    "meaning": "hết hạn",
+    "synonyms": [
+      "become invalid",
+      "run out"
+    ]
+  },
+  {
+    "id": 76,
+    "word": "Become valid/ effective",
+    "partOfSpeech": "n/a",
+    "meaning": "có hiệu lực",
+    "synonyms": [
+      "take effect",
+      "come into effect",
+      "come into force into operation",
+      "come into operation"
+    ]
+  },
+  {
+    "id": 77,
+    "word": "Effort",
+    "partOfSpeech": "n",
+    "meaning": "sự cố gắng, nỗ lực",
+    "synonyms": [
+      "attempt",
+      "try",
+      "strive",
+      "endeavor"
+    ]
+  },
+  {
+    "id": 78,
+    "word": "Estimate",
+    "partOfSpeech": "n",
+    "meaning": "bảng báo giá",
+    "synonyms": [
+      "quote",
+      "quotation",
+      "costing"
+    ]
+  },
+  {
+    "id": 79,
+    "word": "Expert",
+    "partOfSpeech": "n",
+    "meaning": "chuyên gia",
+    "synonyms": [
+      "professional",
+      "specialist",
+      "authority"
+    ]
+  },
+  {
+    "id": 80,
+    "word": "Guarantee",
+    "partOfSpeech": "v",
+    "meaning": "",
+    "synonyms": [
+      "assure",
+      "ensure",
+      "make sure",
+      "secure",
+      "promise",
+      "secure"
+    ]
+  },
+  {
+    "id": 81,
+    "word": "đảm bảo",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": []
+  },
+  {
+    "id": 82,
+    "word": "Move",
+    "partOfSpeech": "v",
+    "meaning": "di dời",
+    "synonyms": [
+      "relocate",
+      "transfer"
+    ]
+  },
+  {
+    "id": 83,
+    "word": "Remove",
+    "partOfSpeech": "v",
+    "meaning": "loại bỏ, vứt bỏ of = vứt",
+    "synonyms": [
+      "eliminate",
+      "get rid of",
+      "dispose of",
+      "throw away/out"
+    ]
+  },
+  {
+    "id": 84,
+    "word": "Notify",
+    "partOfSpeech": "v",
+    "meaning": "thông báo cho ai",
+    "synonyms": [
+      "inform",
+      "warn",
+      "brief"
+    ]
+  },
+  {
+    "id": 85,
+    "word": "Perform",
+    "partOfSpeech": "v",
+    "meaning": "thực hiện",
+    "synonyms": [
+      "conduct",
+      "carry out",
+      "do",
+      "implement"
+    ]
+  },
+  {
+    "id": 86,
+    "word": "Penalty",
+    "partOfSpeech": "n",
+    "meaning": "tiền phạt",
+    "synonyms": [
+      "fine"
+    ]
+  },
+  {
+    "id": 87,
+    "word": "Construct",
+    "partOfSpeech": "v",
+    "meaning": "xây dựng",
+    "synonyms": [
+      "build",
+      "put up",
+      "erect"
+    ]
+  },
+  {
+    "id": 88,
+    "word": "Destroy",
+    "partOfSpeech": "v",
+    "meaning": "phá hủy",
+    "synonyms": [
+      "demolish",
+      "knock down",
+      "tear down",
+      "ruin",
+      "put down"
+    ]
+  },
+  {
+    "id": 89,
+    "word": "Rapidly",
+    "partOfSpeech": "adv",
+    "meaning": "",
+    "synonyms": [
+      "quickly",
+      "fast",
+      "swiftly",
+      "promptly",
+      "dramatically",
+      "suddenly"
+    ]
+  },
+  {
+    "id": 90,
+    "word": "một cách nhanh chóng",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": []
+  },
+  {
+    "id": 91,
+    "word": "Avoid",
+    "partOfSpeech": "v",
+    "meaning": "tránh",
+    "synonyms": [
+      "keep away from",
+      "stay away from refrain from"
+    ]
+  },
+  {
+    "id": 92,
+    "word": "Approach",
+    "partOfSpeech": "n",
+    "meaning": "cách tiếp cận, phương pháp",
+    "synonyms": [
+      "method",
+      "strategy",
+      "way",
+      "measure"
+    ]
+  },
+  {
+    "id": 93,
+    "word": "Measurement",
+    "partOfSpeech": "length & width) (n",
+    "meaning": "kích thước",
+    "synonyms": [
+      "size",
+      "dimension"
+    ]
+  },
+  {
+    "id": 94,
+    "word": "Scope",
+    "partOfSpeech": "n",
+    "meaning": "phạm vi",
+    "synonyms": [
+      "extent",
+      "range",
+      "scale"
+    ]
+  },
+  {
+    "id": 95,
+    "word": "Inspect",
+    "partOfSpeech": "v",
+    "meaning": "kiểm tra",
+    "synonyms": [
+      "examine",
+      "check",
+      "go over",
+      "investigation"
+    ]
+  },
+  {
+    "id": 96,
+    "word": "Former",
+    "partOfSpeech": "adj",
+    "meaning": "trước đây",
+    "synonyms": [
+      "previous",
+      "old",
+      "past",
+      "last",
+      "earlier"
+    ]
+  },
+  {
+    "id": 97,
+    "word": "Headquarters",
+    "partOfSpeech": "n/a",
+    "meaning": "trụ sở chính",
+    "synonyms": [
+      "head office",
+      "main office"
+    ]
+  },
+  {
+    "id": 98,
+    "word": "Improve",
+    "partOfSpeech": "v",
+    "meaning": "",
+    "synonyms": [
+      "enhance",
+      "promote",
+      "make better",
+      "advance",
+      "boost",
+      "further"
+    ]
+  },
+  {
+    "id": 99,
+    "word": "cải thiện, thúc đẩy",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": []
+  },
+  {
+    "id": 100,
+    "word": "Purpose",
+    "partOfSpeech": "n",
+    "meaning": "mục đích, mục tiêu",
+    "synonyms": [
+      "aim",
+      "target",
+      "objective",
+      "goal",
+      "intention",
+      "intention",
+      "intent"
+    ]
+  },
+  {
+    "id": 101,
+    "word": "Supervise",
+    "partOfSpeech": "v",
+    "meaning": "giám sát, quản lý",
+    "synonyms": [
+      "manage",
+      "oversee",
+      "monitor",
+      "keep track of"
+    ]
+  },
+  {
+    "id": 102,
+    "word": "Banquet",
+    "partOfSpeech": "tiệc trưa) = party (n): bữa tiệc 101. Proper = appropriate = suitable = fitting/ fit = adequate (adj",
+    "meaning": "thích hợp, phù hợp",
+    "synonyms": [
+      "dinner",
+      "reception",
+      "luncheon"
+    ]
+  },
+  {
+    "id": 103,
+    "word": "Adequate",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": [
+      "enough",
+      "sufficient (adj) đủ"
+    ]
+  },
+  {
+    "id": 104,
+    "word": "Resign",
+    "partOfSpeech": "v",
+    "meaning": "từ chức",
+    "synonyms": [
+      "leave",
+      "quit",
+      "give up",
+      "stand/step down"
+    ]
+  },
+  {
+    "id": 105,
+    "word": "Rest",
+    "partOfSpeech": "n",
+    "meaning": "phần còn lại",
+    "synonyms": [
+      "remainder",
+      "remaining part"
+    ]
+  },
+  {
+    "id": 106,
+    "word": "Sales",
+    "partOfSpeech": "n",
+    "meaning": "doanh thu",
+    "synonyms": [
+      "revenue"
+    ]
+  },
+  {
+    "id": 107,
+    "word": "Routine",
+    "partOfSpeech": "adj",
+    "meaning": "thông thường",
+    "synonyms": [
+      "regular",
+      "normal",
+      "usual",
+      "ordinary",
+      "customary"
+    ]
+  },
+  {
+    "id": 108,
+    "word": "Stationery",
+    "partOfSpeech": "n/a",
+    "meaning": "đồ dùng văn phòng",
+    "synonyms": [
+      "office supplies"
+    ]
+  },
+  {
+    "id": 109,
+    "word": "Warehouse",
+    "partOfSpeech": "n",
+    "meaning": "nhà kho",
+    "synonyms": [
+      "storeroom",
+      "stockroom",
+      "storage",
+      "storehouse"
+    ]
+  },
+  {
+    "id": 110,
+    "word": "Attract",
+    "partOfSpeech": "v",
+    "meaning": "thu hút",
+    "synonyms": [
+      "draw",
+      "appeal to"
+    ]
+  },
+  {
+    "id": 111,
+    "word": "Collaborate with",
+    "partOfSpeech": "n/a",
+    "meaning": "hợp tác",
+    "synonyms": [
+      "cooperate with",
+      "combine with",
+      "work with",
+      "team up with"
+    ]
+  },
+  {
+    "id": 112,
+    "word": "Collaborative",
+    "partOfSpeech": "adj",
+    "meaning": "có tính hợp tác",
+    "synonyms": [
+      "cooperative"
+    ]
+  },
+  {
+    "id": 113,
+    "word": "Creative",
+    "partOfSpeech": "adj",
+    "meaning": "sáng tạo",
+    "synonyms": [
+      "innovative"
+    ]
+  },
+  {
+    "id": 114,
+    "word": "Renovate",
+    "partOfSpeech": "v): nâng cấp, cải tạo 114. Business = firm = company = organization = corporation = enterprise (n",
+    "meaning": "",
+    "synonyms": [
+      "remodel",
+      "restore",
+      "upgrade",
+      "refurbish"
+    ]
+  },
+  {
+    "id": 115,
+    "word": "công ty, tập đoàn",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": []
+  },
+  {
+    "id": 116,
+    "word": "Advertise",
+    "partOfSpeech": "v",
+    "meaning": "quảng cáo",
+    "synonyms": [
+      "promote",
+      "publicize"
+    ]
+  },
+  {
+    "id": 117,
+    "word": "Commercial",
+    "partOfSpeech": "n",
+    "meaning": "quảng cáo",
+    "synonyms": [
+      "promotion",
+      "advertisement"
+    ]
+  },
+  {
+    "id": 118,
+    "word": "Distribute",
+    "partOfSpeech": "v",
+    "meaning": "phát ra",
+    "synonyms": [
+      "deliver",
+      "hand out"
+    ]
+  },
+  {
+    "id": 119,
+    "word": "Alternative",
+    "partOfSpeech": "adj",
+    "meaning": "",
+    "synonyms": [
+      "alternate",
+      "replacement",
+      "different",
+      "other",
+      "substitute"
+    ]
+  },
+  {
+    "id": 120,
+    "word": "thay thế, khác",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": []
+  },
+  {
+    "id": 121,
+    "word": "Feature",
+    "partOfSpeech": "n",
+    "meaning": "bài báo",
+    "synonyms": [
+      "article",
+      "story",
+      "column",
+      "report"
+    ]
+  },
+  {
+    "id": 122,
+    "word": "Columnist",
+    "partOfSpeech": "n): nhà báo, phóng viên 121. Regularly frequently = often = habitually = routinely (adv",
+    "meaning": "thường xuyên",
+    "synonyms": [
+      "reporter",
+      "journalist",
+      "correspondent"
+    ]
+  },
+  {
+    "id": 123,
+    "word": "Recently",
+    "partOfSpeech": "adv",
+    "meaning": "gần đây",
+    "synonyms": [
+      "lately",
+      "not long ago",
+      "a short time ago"
+    ]
+  },
+  {
+    "id": 124,
+    "word": "Rarely",
+    "partOfSpeech": "adv",
+    "meaning": "ít khi",
+    "synonyms": [
+      "seldom",
+      "infrequently",
+      "hardly",
+      "scarcely",
+      "not often"
+    ]
+  },
+  {
+    "id": 125,
+    "word": "Use",
+    "partOfSpeech": "v",
+    "meaning": "sử dụng",
+    "synonyms": [
+      "utilize",
+      "employ",
+      "make use of"
+    ]
+  },
+  {
+    "id": 126,
+    "word": "Surpass",
+    "partOfSpeech": "v",
+    "meaning": "vượt quá",
+    "synonyms": [
+      "exceed"
+    ]
+  },
+  {
+    "id": 127,
+    "word": "Important",
+    "partOfSpeech": "adj",
+    "meaning": "quan trọng",
+    "synonyms": [
+      "vital",
+      "crucial",
+      "critical",
+      "essential",
+      "necessary"
+    ]
+  },
+  {
+    "id": 128,
+    "word": "Colleague",
+    "partOfSpeech": "n",
+    "meaning": "đồng nghiệp",
+    "synonyms": [
+      "coworker",
+      "teammate",
+      "workmate"
+    ]
+  },
+  {
+    "id": 129,
+    "word": "Interesting",
+    "partOfSpeech": "adj",
+    "meaning": "thú vị",
+    "synonyms": [
+      "entertaining",
+      "fascinating",
+      "compelling",
+      "attractive"
+    ]
+  },
+  {
+    "id": 130,
+    "word": "Launch",
+    "partOfSpeech": "v",
+    "meaning": "ra mắt, giới thiệu",
+    "synonyms": [
+      "release",
+      "introduce",
+      "make available/ public",
+      "reveal",
+      "disclose",
+      "divulge"
+    ]
+  },
+  {
+    "id": 131,
+    "word": "Journal",
+    "partOfSpeech": "n",
+    "meaning": "tạp chí, báo",
+    "synonyms": [
+      "magazine",
+      "periodical",
+      "newspaper"
+    ]
+  },
+  {
+    "id": 132,
+    "word": "Manual",
+    "partOfSpeech": "n",
+    "meaning": "sách hướng dẫn",
+    "synonyms": [
+      "instruction book",
+      "guidebook",
+      "handbook",
+      "how-to book"
+    ]
+  },
+  {
+    "id": 133,
+    "word": "Brochure",
+    "partOfSpeech": "n",
+    "meaning": "tờ rơi, tờ quảng cáo",
+    "synonyms": [
+      "pamphlet",
+      "leaflet",
+      "flyer",
+      "handout"
+    ]
+  },
+  {
+    "id": 134,
+    "word": "Customize",
+    "partOfSpeech": "v",
+    "meaning": "tùy chỉnh/ thiết kế theo ý khách hàng",
+    "synonyms": [
+      "personalize",
+      "tailor"
+    ]
+  },
+  {
+    "id": 135,
+    "word": "Donation",
+    "partOfSpeech": "n",
+    "meaning": "sự quyên góp, sự đóng góp",
+    "synonyms": [
+      "contribution"
+    ]
+  },
+  {
+    "id": 136,
+    "word": "Assist",
+    "partOfSpeech": "v",
+    "meaning": "hỗ trợ, giúp đỡ",
+    "synonyms": [
+      "give/ lend a hand",
+      "help",
+      "support",
+      "aid"
+    ]
+  },
+  {
+    "id": 137,
+    "word": "Expand",
+    "partOfSpeech": "v",
+    "meaning": "mở rộng",
+    "synonyms": [
+      "enlarge",
+      "widen",
+      "broaden"
+    ]
+  },
+  {
+    "id": 138,
+    "word": "Last",
+    "partOfSpeech": "v",
+    "meaning": "kéo dài",
+    "synonyms": [
+      "extend",
+      "lengthen",
+      "prolong"
+    ]
+  },
+  {
+    "id": 139,
+    "word": "Originally",
+    "partOfSpeech": "adv",
+    "meaning": "ban đầu",
+    "synonyms": [
+      "initially",
+      "first"
+    ]
+  },
+  {
+    "id": 140,
+    "word": "However",
+    "partOfSpeech": "adv",
+    "meaning": "tuy nhiên",
+    "synonyms": [
+      "nonetheless",
+      "nevertheless"
+    ]
+  },
+  {
+    "id": 141,
+    "word": "Moreover",
+    "partOfSpeech": "adv",
+    "meaning": "ngoài ra, hơn nữa",
+    "synonyms": [
+      "furthermore",
+      "additionally",
+      "in addition",
+      "besides"
+    ]
+  },
+  {
+    "id": 142,
+    "word": "Therefore",
+    "partOfSpeech": "adv",
+    "meaning": "do đó, vì thế",
+    "synonyms": [
+      "as a result",
+      "consequently for that reason",
+      "hence",
+      "thus",
+      "accordingly"
+    ]
+  },
+  {
+    "id": 143,
+    "word": "Manufacture",
+    "partOfSpeech": "v",
+    "meaning": "sản xuất",
+    "synonyms": [
+      "make",
+      "produce",
+      "create"
+    ]
+  },
+  {
+    "id": 144,
+    "word": "Goods",
+    "partOfSpeech": "n",
+    "meaning": "sản phẩm/ hàng hóa",
+    "synonyms": [
+      "merchandise",
+      "item",
+      "product"
+    ]
+  },
+  {
+    "id": 145,
+    "word": "Photograph",
+    "partOfSpeech": "n",
+    "meaning": "hình ảnh",
+    "synonyms": [
+      "photo",
+      "picture",
+      "image"
+    ]
+  },
+  {
+    "id": 146,
+    "word": "Dispute",
+    "partOfSpeech": "v",
+    "meaning": "tranh cãi",
+    "synonyms": [
+      "debate",
+      "argue",
+      "controvert"
+    ]
+  },
+  {
+    "id": 147,
+    "word": "Dispute",
+    "partOfSpeech": "n",
+    "meaning": "cuộc tranh cãi",
+    "synonyms": [
+      "debate",
+      "argument",
+      "controversy"
+    ]
+  },
+  {
+    "id": 148,
+    "word": "Oppose",
+    "partOfSpeech": "v",
+    "meaning": "phản đối",
+    "synonyms": [
+      "be against",
+      "object to",
+      "disagree with"
+    ]
+  },
+  {
+    "id": 149,
+    "word": "Resident",
+    "partOfSpeech": "n",
+    "meaning": "cư dân",
+    "synonyms": [
+      "citizen",
+      "inhabitant",
+      "local"
+    ]
+  },
+  {
+    "id": 150,
+    "word": "Shortage",
+    "partOfSpeech": "of) = lack (of) = deficit = shortfall (n",
+    "meaning": "sự thiếu hụt",
+    "synonyms": []
+  },
+  {
+    "id": 151,
+    "word": "Equivalent",
+    "partOfSpeech": "adj",
+    "meaning": "tương đương",
+    "synonyms": [
+      "equal",
+      "comparable",
+      "similar"
+    ]
+  },
+  {
+    "id": 152,
+    "word": "Large",
+    "partOfSpeech": "adj",
+    "meaning": "",
+    "synonyms": [
+      "huge",
+      "sizable",
+      "enormous",
+      "immense",
+      "tremendous",
+      "vast"
+    ]
+  },
+  {
+    "id": 153,
+    "word": "rộng lớn",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": []
+  },
+  {
+    "id": 154,
+    "word": "Annually",
+    "partOfSpeech": "adv",
+    "meaning": "hàng năm",
+    "synonyms": [
+      "yearly",
+      "once a month",
+      "every year",
+      "each year",
+      "per year"
+    ]
+  },
+  {
+    "id": 155,
+    "word": "Appoint",
+    "partOfSpeech": "v",
+    "meaning": "bổ nhiệm, đề cử",
+    "synonyms": [
+      "select",
+      "elect",
+      "choose",
+      "name",
+      "nominate"
+    ]
+  },
+  {
+    "id": 156,
+    "word": "Anonymous",
+    "partOfSpeech": "adj",
+    "meaning": "ẩn danh, giấu tên",
+    "synonyms": [
+      "unknown",
+      "unnamed",
+      "nameless"
+    ]
+  },
+  {
+    "id": 157,
+    "word": "Branch",
+    "partOfSpeech": "n",
+    "meaning": "chi nhánh, công ty con",
+    "synonyms": [
+      "office",
+      "subsidiary",
+      "agency",
+      "affiliate"
+    ]
+  },
+  {
+    "id": 158,
+    "word": "Challenging",
+    "partOfSpeech": "adj",
+    "meaning": "khó khăn",
+    "synonyms": [
+      "difficult",
+      "hard",
+      "tough"
+    ]
+  },
+  {
+    "id": 159,
+    "word": "Dedicated",
+    "partOfSpeech": "adj",
+    "meaning": "tận tâm, tận tụy",
+    "synonyms": [
+      "devoted",
+      "committed"
+    ]
+  },
+  {
+    "id": 160,
+    "word": "Fill out",
+    "partOfSpeech": "v",
+    "meaning": "hoàn thành, điền vào",
+    "synonyms": [
+      "complete",
+      "finish"
+    ]
+  },
+  {
+    "id": 161,
+    "word": "Process",
+    "partOfSpeech": "n",
+    "meaning": "quy trình",
+    "synonyms": [
+      "procedure"
+    ]
+  },
+  {
+    "id": 162,
+    "word": "Additional",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": [
+      "extra",
+      "added",
+      "more",
+      "further supplementary",
+      "supplemental"
+    ]
+  },
+  {
+    "id": 164,
+    "word": "Complicated",
+    "partOfSpeech": "adj",
+    "meaning": "phức tạp",
+    "synonyms": [
+      "complex",
+      "confusing"
+    ]
+  },
+  {
+    "id": 165,
+    "word": "Hold",
+    "partOfSpeech": "v",
+    "meaning": "tổ chức",
+    "synonyms": [
+      "host",
+      "organize",
+      "arrange",
+      "set up"
+    ]
+  },
+  {
+    "id": 166,
+    "word": "Allowance",
+    "partOfSpeech": "n",
+    "meaning": "tiền trợ cấp",
+    "synonyms": [
+      "benefit",
+      "grant"
+    ]
+  },
+  {
+    "id": 167,
+    "word": "Encourage",
+    "partOfSpeech": "v",
+    "meaning": "khuyến khích",
+    "synonyms": [
+      "motivate",
+      "stimulate",
+      "urge"
+    ]
+  },
+  {
+    "id": 168,
+    "word": "Effective",
+    "partOfSpeech": "adj",
+    "meaning": "có hiệu quả",
+    "synonyms": [
+      "efficient"
+    ]
+  },
+  {
+    "id": 169,
+    "word": "Clothes/ clothing",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": [
+      "outfit",
+      "attire",
+      "apparel",
+      "garment",
+      "uniform",
+      "costume"
+    ]
+  },
+  {
+    "id": 170,
+    "word": "dress",
+    "partOfSpeech": "n",
+    "meaning": "quần áo, trang phục",
+    "synonyms": []
+  },
+  {
+    "id": 171,
+    "word": "Schedule",
+    "partOfSpeech": "n",
+    "meaning": "lịch trình",
+    "synonyms": [
+      "itinerary",
+      "timetable",
+      "timeline",
+      "travel plan"
+    ]
+  },
+  {
+    "id": 172,
+    "word": "Limit",
+    "partOfSpeech": "v",
+    "meaning": "giới hạn",
+    "synonyms": [
+      "restrict",
+      "restrain"
+    ]
+  },
+  {
+    "id": 173,
+    "word": "Forecast",
+    "partOfSpeech": "v",
+    "meaning": "dự đoán",
+    "synonyms": [
+      "predict",
+      "foresee"
+    ]
+  },
+  {
+    "id": 174,
+    "word": "Located",
+    "partOfSpeech": "n/a",
+    "meaning": "nằm ở, tọa lạc ở",
+    "synonyms": [
+      "situated"
+    ]
+  },
+  {
+    "id": 175,
+    "word": "Take advantage of",
+    "partOfSpeech": "n/a",
+    "meaning": "tận dụng",
+    "synonyms": [
+      "make the most/ best of",
+      "use up"
+    ]
+  },
+  {
+    "id": 176,
+    "word": "Various",
+    "partOfSpeech": "n/a",
+    "meaning": "đa dạng, khác nhau",
+    "synonyms": [
+      "diverse",
+      "a variety of",
+      "varied"
+    ]
+  },
+  {
+    "id": 177,
+    "word": "Attendee",
+    "partOfSpeech": "n",
+    "meaning": "người tham dự",
+    "synonyms": [
+      "participant"
+    ]
+  },
+  {
+    "id": 178,
+    "word": "Attendant",
+    "partOfSpeech": "n",
+    "meaning": "người phục vụ",
+    "synonyms": [
+      "server",
+      "waiter"
+    ]
+  },
+  {
+    "id": 179,
+    "word": "Attendance",
+    "partOfSpeech": "n",
+    "meaning": "số người tham dự",
+    "synonyms": [
+      "turnout"
+    ]
+  },
+  {
+    "id": 180,
+    "word": "Abroad",
+    "partOfSpeech": "adv",
+    "meaning": "ở nước ngoài",
+    "synonyms": [
+      "overseas",
+      "out of the country"
+    ]
+  },
+  {
+    "id": 181,
+    "word": "Booth",
+    "partOfSpeech": "n",
+    "meaning": "quầy",
+    "synonyms": [
+      "counter",
+      "stand",
+      "stall"
+    ]
+  },
+  {
+    "id": 182,
+    "word": "Reception area",
+    "partOfSpeech": "n/a",
+    "meaning": "khu vực lễ tân",
+    "synonyms": [
+      "front desk"
+    ]
+  },
+  {
+    "id": 183,
+    "word": "Receptionist",
+    "partOfSpeech": "n/a",
+    "meaning": "nhân viên lễ tân",
+    "synonyms": [
+      "front desk staff"
+    ]
+  },
+  {
+    "id": 184,
+    "word": "Luggage",
+    "partOfSpeech": "n",
+    "meaning": "túi, hành lý",
+    "synonyms": [
+      "baggage",
+      "suitcase",
+      "bag",
+      "backpack"
+    ]
+  },
+  {
+    "id": 185,
+    "word": "Rubbish",
+    "partOfSpeech": "n",
+    "meaning": "rác",
+    "synonyms": [
+      "garbage",
+      "trash",
+      "refuse",
+      "waste",
+      "litter",
+      "scraps"
+    ]
+  },
+  {
+    "id": 186,
+    "word": "License",
+    "partOfSpeech": "n",
+    "meaning": "giấy phép",
+    "synonyms": [
+      "permit",
+      "authorization",
+      "permission"
+    ]
+  },
+  {
+    "id": 187,
+    "word": "On time on schedule",
+    "partOfSpeech": "adv",
+    "meaning": "đúng giờ",
+    "synonyms": [
+      "timely",
+      "punctually"
+    ]
+  },
+  {
+    "id": 188,
+    "word": "Voluntary",
+    "partOfSpeech": "adj",
+    "meaning": "tự ý, không bắt buộc",
+    "synonyms": [
+      "optional",
+      "discretionary"
+    ]
+  },
+  {
+    "id": 189,
+    "word": "Admission",
+    "partOfSpeech": "n",
+    "meaning": "tiền, phí vào cửa",
+    "synonyms": [
+      "entrance fee",
+      "entry charge",
+      "ticket"
+    ]
+  },
+  {
+    "id": 190,
+    "word": "Fee",
+    "partOfSpeech": "n",
+    "meaning": "phí",
+    "synonyms": [
+      "charge",
+      "fare",
+      "due"
+    ]
+  },
+  {
+    "id": 191,
+    "word": "Celebrate",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": [
+      "mark",
+      "commemorate",
+      "keep",
+      "observe",
+      "honor",
+      "remember"
+    ]
+  },
+  {
+    "id": 193,
+    "word": "Beverage",
+    "partOfSpeech": "n",
+    "meaning": "đồ uống, thức uống",
+    "synonyms": [
+      "drink"
+    ]
+  },
+  {
+    "id": 194,
+    "word": "Drawing",
+    "partOfSpeech": "n",
+    "meaning": "cuộc rút thăm trúng thưởng",
+    "synonyms": [
+      "raffle",
+      "lottery"
+    ]
+  },
+  {
+    "id": 195,
+    "word": "Rather",
+    "partOfSpeech": "adv",
+    "meaning": "hơi, khá",
+    "synonyms": [
+      "relatively quite",
+      "fairly",
+      "comparatively",
+      "somewhat"
+    ]
+  },
+  {
+    "id": 196,
+    "word": "Approximately",
+    "partOfSpeech": "adv",
+    "meaning": "xấp xỉ, khoảng chừng",
+    "synonyms": [
+      "about",
+      "around",
+      "roughly"
+    ]
+  },
+  {
+    "id": 197,
+    "word": "Extremely",
+    "partOfSpeech": "adv",
+    "meaning": "cực kỳ, rất",
+    "synonyms": [
+      "very",
+      "exceptionally",
+      "really",
+      "exceedingly",
+      "truly"
+    ]
+  },
+  {
+    "id": 198,
+    "word": "Fragile",
+    "partOfSpeech": "adj",
+    "meaning": "dễ vỡ",
+    "synonyms": [
+      "easily broken/ damaged",
+      "breakable",
+      "delicate"
+    ]
+  },
+  {
+    "id": 199,
+    "word": "196.Stress",
+    "partOfSpeech": "v",
+    "meaning": "nhấn mạnh, tập",
+    "synonyms": [
+      "highlight",
+      "emphasize",
+      "focus on",
+      "concentrate on"
+    ]
+  },
+  {
+    "id": 200,
+    "word": "Confidential",
+    "partOfSpeech": "adj",
+    "meaning": "bí mật, riêng tư",
+    "synonyms": [
+      "secret",
+      "private"
+    ]
+  },
+  {
+    "id": 201,
+    "word": "Neglect ignore",
+    "partOfSpeech": "v",
+    "meaning": "phớt lờ, lờ di",
+    "synonyms": [
+      "overlook",
+      "pay no attention to disregard",
+      "omit"
+    ]
+  },
+  {
+    "id": 202,
+    "word": "Concerning",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": [
+      "regarding",
+      "about",
+      "relating to relating to with regard to with respect to",
+      "(prep.) về, liên quan đến"
+    ]
+  },
+  {
+    "id": 203,
+    "word": "Specimen",
+    "partOfSpeech": "n",
+    "meaning": "mẫu vật",
+    "synonyms": [
+      "sample",
+      "model",
+      "pattern",
+      "prototype"
+    ]
+  },
+  {
+    "id": 204,
+    "word": "Sole",
+    "partOfSpeech": "adj",
+    "meaning": "duy nhất /độc nhất",
+    "synonyms": [
+      "only",
+      "unique",
+      "exclusive"
+    ]
+  },
+  {
+    "id": 205,
+    "word": "Simultaneously",
+    "partOfSpeech": "adv",
+    "meaning": "đồng thời, xảy ra cùng một lúc",
+    "synonyms": [
+      "at the same time/ moment",
+      "at once",
+      "concurrently"
+    ]
+  },
+  {
+    "id": 206,
+    "word": "Tasty",
+    "partOfSpeech": "adj",
+    "meaning": "ngon",
+    "synonyms": [
+      "delicious",
+      "mouthwatering",
+      "toothsome",
+      "flavorful"
+    ]
+  },
+  {
+    "id": 207,
+    "word": "Venue",
+    "partOfSpeech": "n",
+    "meaning": "địa điểm, vị trí",
+    "synonyms": [
+      "location",
+      "place",
+      "space",
+      "site"
+    ]
+  },
+  {
+    "id": 208,
+    "word": "Accident",
+    "partOfSpeech": "n",
+    "meaning": "tai nạn",
+    "synonyms": [
+      "crash",
+      "collision"
+    ]
+  },
+  {
+    "id": 209,
+    "word": "Around-the-clock",
+    "partOfSpeech": "n/a",
+    "meaning": "suốt 24h/ ngày đêm",
+    "synonyms": [
+      "day and night",
+      "all the time",
+      "twenty-four hours"
+    ]
+  },
+  {
+    "id": 210,
+    "word": "Coincide",
+    "partOfSpeech": "v",
+    "meaning": "xảy ra",
+    "synonyms": [
+      "occur simultaneously happen together",
+      "be concurrent",
+      "concur"
+    ]
+  },
+  {
+    "id": 211,
+    "word": "Existing",
+    "partOfSpeech": "adj",
+    "meaning": "hiện tại",
+    "synonyms": [
+      "present",
+      "current"
+    ]
+  },
+  {
+    "id": 212,
+    "word": "Expensive",
+    "partOfSpeech": "adj",
+    "meaning": "đắt tiên",
+    "synonyms": [
+      "costly",
+      "high-priced",
+      "overpriced",
+      "pricey/ pricy",
+      "big-ticket"
+    ]
+  },
+  {
+    "id": 213,
+    "word": "Intend",
+    "partOfSpeech": "v",
+    "meaning": "dự định",
+    "synonyms": [
+      "plan",
+      "mean"
+    ]
+  },
+  {
+    "id": 214,
+    "word": "Equipment",
+    "partOfSpeech": "n",
+    "meaning": "thiết bị, máy móc",
+    "synonyms": [
+      "appliances",
+      "tools",
+      "device",
+      "machinery"
+    ]
+  },
+  {
+    "id": 215,
+    "word": "Trip",
+    "partOfSpeech": "n",
+    "meaning": "chuyển đi chơi",
+    "synonyms": [
+      "tour",
+      "excursion",
+      "outing",
+      "journey"
+    ]
+  },
+  {
+    "id": 216,
+    "word": "Own",
+    "partOfSpeech": "v",
+    "meaning": "có, sở hữu",
+    "synonyms": [
+      "possess",
+      "have",
+      "enjoy",
+      "boast"
+    ]
+  },
+  {
+    "id": 217,
+    "word": "Rent",
+    "partOfSpeech": "v",
+    "meaning": "thuê",
+    "synonyms": [
+      "lease",
+      "hire",
+      "sublet"
+    ]
+  },
+  {
+    "id": 218,
+    "word": "Replace",
+    "partOfSpeech": "v",
+    "meaning": "thay thế",
+    "synonyms": [
+      "substitute",
+      "exchange",
+      "swap"
+    ]
+  },
+  {
+    "id": 219,
+    "word": "Representative",
+    "partOfSpeech": "n",
+    "meaning": "người đại diện",
+    "synonyms": [
+      "agent",
+      "delegate"
+    ]
+  },
+  {
+    "id": 220,
+    "word": "Keep",
+    "partOfSpeech": "v",
+    "meaning": "giữ",
+    "synonyms": [
+      "maintain",
+      "retain"
+    ]
+  },
+  {
+    "id": 221,
+    "word": "Maintenance",
+    "partOfSpeech": "n",
+    "meaning": "sự bảo trì/ bảo dưỡng",
+    "synonyms": [
+      "upkeep",
+      "servicing"
+    ]
+  },
+  {
+    "id": 222,
+    "word": "Donor",
+    "partOfSpeech": "n",
+    "meaning": "nhà tài trợ",
+    "synonyms": [
+      "sponsor",
+      "supporter",
+      "patron",
+      "contributor"
+    ]
+  },
+  {
+    "id": 223,
+    "word": "Factory",
+    "partOfSpeech": "n/a",
+    "meaning": "nhà máy",
+    "synonyms": [
+      "manufacturing plant"
+    ]
+  },
+  {
+    "id": 224,
+    "word": "Experience",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": [
+      "suffer",
+      "encounter",
+      "undergo undergo",
+      "go through",
+      "endure"
+    ]
+  },
+  {
+    "id": 225,
+    "word": "subject to",
+    "partOfSpeech": "v",
+    "meaning": "trải qua, chịu đựng",
+    "synonyms": []
+  },
+  {
+    "id": 226,
+    "word": "Proximity",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": [
+      "closeness",
+      "nearness",
+      "vicinity (n) sự ở gần"
+    ]
+  },
+  {
+    "id": 227,
+    "word": "Reply to",
+    "partOfSpeech": "v",
+    "meaning": "phản hồi, trả lời",
+    "synonyms": [
+      "respond to",
+      "answer"
+    ]
+  },
+  {
+    "id": 228,
+    "word": "Convert",
+    "partOfSpeech": "v",
+    "meaning": "chuyển đổi, biến đổi",
+    "synonyms": [
+      "transform",
+      "change",
+      "turn"
+    ]
+  },
+  {
+    "id": 229,
+    "word": "Total",
+    "partOfSpeech": "adj",
+    "meaning": "toàn bộ/ hoàn toàn",
+    "synonyms": [
+      "complete",
+      "entire",
+      "whole",
+      "overall"
+    ]
+  },
+  {
+    "id": 230,
+    "word": "Adjacent",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": [
+      "adjoining",
+      "neighboring",
+      "next to",
+      "close to",
+      "near",
+      "beside"
+    ]
+  },
+  {
+    "id": 231,
+    "word": "gần/ kế bên",
+    "partOfSpeech": "n/a",
+    "meaning": "",
+    "synonyms": []
+  },
+  {
+    "id": 232,
+    "word": "Apartment",
+    "partOfSpeech": "n",
+    "meaning": "căn hộ",
+    "synonyms": [
+      "unit",
+      "suit",
+      "flat",
+      "condominium"
+    ]
+  },
+  {
+    "id": 233,
+    "word": "Carpet rug mat",
+    "partOfSpeech": "n",
+    "meaning": "thảm",
+    "synonyms": [
+      "floor covering"
+    ]
+  },
+  {
+    "id": 234,
+    "word": "Homeowner",
+    "partOfSpeech": "n): chủ nhà 230. Feature = trait = attribute = property = characteristic (n",
+    "meaning": "đặc điểm, tính năng",
+    "synonyms": [
+      "landlord",
+      "owner",
+      "proprietor",
+      "possessor"
+    ]
+  },
+  {
+    "id": 235,
+    "word": "231. Attribute A to B",
+    "partOfSpeech": "n/a",
+    "meaning": "cho rằng là do B.",
+    "synonyms": [
+      "credit A to/with B"
+    ]
+  }
+]
